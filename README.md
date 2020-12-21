@@ -32,6 +32,16 @@ The `directory` should look like:
 
 
 - selenium 사용하여 원하는 정보의 위도 경도를 csv파일로 저장
+
+- selenium 자동화 예시
+
+![image](https://user-images.githubusercontent.com/28617444/102788150-87cf1780-43e5-11eb-84b4-49956269fc67.png) <br>
+
+![image](https://user-images.githubusercontent.com/28617444/102788307-c664d200-43e5-11eb-8363-c062a7ae2ee8.png)
+
+
+![image](https://user-images.githubusercontent.com/28617444/102787988-45a5d600-43e5-11eb-8847-5dc91473b9bf.png)
+
 - 카페, 음식 등 모든 검색어 가능 (selenium으로 자동화)
 
 - 저장된 csv를 folium 패키지로 지도 시각화
